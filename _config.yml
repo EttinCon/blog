@@ -13,15 +13,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  Matt:
+  matt:
     name: Matt
-    display_name: Matt    
+    display_name: Matt Horam   
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: info@ettincon.org
     web: https://ettincon.org
     twitter: https://twitter.com/ettincon
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Gamer who likes helping people play together."
 
 # Plugins
 plugins:
