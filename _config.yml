@@ -5,7 +5,7 @@ description: "Being the thoughts of the Con Orgs, trying to help."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
-google_analytics: 'UA-6666666-1'
+google_analytics: 'UA-80663732-7'
 disqus: 'EttinCon'
 mailchimp-list: 'https://EttinCon.us12.list-manage.com/subscribe/post?u=31a3fac3fd1468830e71e0cc9&amp;id=9b5dd3e889'
 include: ["_pages"]
@@ -16,9 +16,9 @@ authors:
   matt:
     name: Matt
     display_name: Matt Horam   
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: info@ettincon.org
+    avatar: 'assets/images/avatar.jpeg'
+    gravatar: 09d9741a0f04b0a0c1974c00d01b93fc
+    email: admin@ettincon.org
     web: https://ettincon.org
     twitter: https://twitter.com/ettincon
     description: "Gamer who likes helping people play together."
