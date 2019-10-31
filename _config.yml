@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
 google_analytics: 'UA-6666666-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'EttinCon'
+mailchimp-list: 'https://EttinCon.us12.list-manage.com/subscribe/post?u=31a3fac3fd1468830e71e0cc9&amp;id=9b5dd3e889'
 include: ["_pages"]
 permalink: /:title/
 
