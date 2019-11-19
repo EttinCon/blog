@@ -3,7 +3,7 @@ layout: post
 title:  "Game Mastery"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: 19.jpeg
+image: assets/images/19.jpeg
 featured: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Tabletop.Events = Amazing."
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: 18.jpeg
+image: assets/images/18.jpeg
 featured: true
 ---
 

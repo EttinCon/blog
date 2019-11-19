@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Gamers Together"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: 12b.png
+image: assets/images/12b.png
 featured: true
 ---
 

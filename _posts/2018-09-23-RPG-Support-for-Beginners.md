@@ -3,7 +3,7 @@ layout: post
 title:  "RPG Support for Beginners"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: 20.jpeg
+image: assets/images/20.jpeg
 featured: true
 ---
 

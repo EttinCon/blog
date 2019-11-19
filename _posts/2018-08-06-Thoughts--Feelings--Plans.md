@@ -3,7 +3,7 @@ layout: post
 title:  "Thoughts, Feelings, Plans"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: 17.gif
+image: assets/images/17.gif
 featured: true
 ---
 

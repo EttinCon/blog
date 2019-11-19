@@ -3,7 +3,7 @@ layout: post
 title:  "The Upturn"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: 11.png
+image: assets/images/11.png
 featured: true
 ---
 
