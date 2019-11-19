@@ -3,7 +3,6 @@ layout: post
 title:  "Announcements"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: assets/images/6.jpg
 featured: true
 ---
 
