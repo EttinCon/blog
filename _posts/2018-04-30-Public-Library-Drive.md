@@ -3,7 +3,7 @@ layout: post
 title:  "Public Library Drive"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
-image: assets/images/8.jpg
+image: assets/images/8.png
 featured: true
 ---
 

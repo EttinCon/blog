@@ -3,6 +3,7 @@ layout: post
 title:  "Progress Clocks"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
+image: assets/images/default.png
 featured: true
 ---
 

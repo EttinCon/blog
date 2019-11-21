@@ -3,6 +3,7 @@ layout: post
 title:  "Black Friday Games Round Up"
 author: matt
 categories: [ Events, Games, Gaming, Gaming Culture, Conventions ]
+image: assets/images/default.png
 featured: true
 ---
 <h1 class="p-name"></h1>
